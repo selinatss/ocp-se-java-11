@@ -10,7 +10,7 @@ public class Fox {
     }
 }
 
-public class Squirrel {
+ class Squirrel {
     public void visitFox() {
         //new Den();  // DOES NOT COMPILE
     }
