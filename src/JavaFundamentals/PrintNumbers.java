@@ -5,7 +5,7 @@ public class PrintNumbers {
 
     public void calculate() {
         final int width = 20;
-        //Local class
+        //Local clas
         class MyLocalClass {
             public void multiply() {
                 System.out.print(length * width);
